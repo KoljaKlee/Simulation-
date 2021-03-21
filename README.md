@@ -1,2 +1,2 @@
 # Simulation
-code of my Bachelor's theis
+code of my Bachelor's thesis
